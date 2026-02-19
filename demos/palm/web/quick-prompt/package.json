@@ -27,7 +27,7 @@
   "devDependencies": {
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
-    "@vitejs/plugin-react": "^3.0.0",
+    "@vitejs/plugin-react": "^5.1.4",
     "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-jsx-a11y": "^6.7.1",
@@ -36,6 +36,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.8.4",
     "sass": "^1.57.1",
-    "vite": "^4.5.2"
+    "vite": "^7.3.1"
   }
 }
